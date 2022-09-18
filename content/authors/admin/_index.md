@@ -7,7 +7,9 @@ bio: Hi there. I (Yifei Lu) am currently a second-year master’s student at
   technologies, human-computer interaction, and computer-mediated communication.
 interests:
   - Media
-    psychology                                       HCI                                        CMC
+    psychology
+  - Human-computer interaction
+  - computer-mediated communication
 social:
   - icon: envelope
     icon_pack: fas
