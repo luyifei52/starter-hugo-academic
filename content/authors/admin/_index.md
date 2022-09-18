@@ -1,7 +1,7 @@
 ---
 title: Yifei Lu
 role: Master's student
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: Hi there. I (Yifei Lu) am currently a second-year master’s student at
   Beijing Normal University. My research interests include interactive
   technologies, human-computer interaction, and computer-mediated communication.
