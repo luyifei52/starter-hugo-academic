@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 4d7bf147au82a992c5176aad1f0643b8.jpg
+    image: 1920x1080-dark-pastel-blue-solid-color-background.jpg
 ---
