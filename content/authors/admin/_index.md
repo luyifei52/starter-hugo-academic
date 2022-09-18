@@ -18,7 +18,7 @@ social:
     link: https://twitter.com/faylu87
   - icon: github
     icon_pack: fab
-    link: https://github.com/yifeilu52
+    link: https://github.com/luyifei52
 organizations:
   - name: Beijing Normal University
     url: ""
