@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 1920x1080-dark-pastel-blue-solid-color-background.jpg
+    image: tan-abstract-background-that-looks-260nw-2094804718.jpg
 ---
