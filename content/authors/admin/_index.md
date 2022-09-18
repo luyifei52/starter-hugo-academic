@@ -6,7 +6,8 @@ bio: Hi there. I (Yifei Lu) am currently a second-year master’s student at
   Beijing Normal University. My research interests include interactive
   technologies, human-computer interaction, and computer-mediated communication.
 interests:
-  - Media psychology\\HCI\\CMC
+  - Media
+    psychology                                       HCI                                        CMC
 social:
   - icon: envelope
     icon_pack: fas
