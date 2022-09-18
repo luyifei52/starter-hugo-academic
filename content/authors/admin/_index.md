@@ -6,9 +6,7 @@ bio: Hi there. I (Yifei Lu) am currently a second-year master’s student at
   Beijing Normal University. My research interests include interactive
   technologies, human-computer interaction, and computer-mediated communication.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Mediapsychology
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi there. I (Yifei Lu) am currently a second-year master’s student at Beijing Normal University. My research interests include interactive technologies, human-computer interaction, and computer-mediated communication. More specifically, I am interested in exploring the direct psychophysiological responses to interactive technologies during entertainment and their role as a context for technology-mediated social connectedness that implicates social support. Meanwhile, I tend to relate those two research directions with digital well-being.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
