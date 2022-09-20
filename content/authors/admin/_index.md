@@ -36,4 +36,4 @@ highlight_name: true
 ---
 Hi there. I (Yifei Lu) am currently a second-year master’s student at Beijing Normal University. My research interests include interactive technologies, human-computer interaction, and computer-mediated communication. More specifically, I am interested in exploring (1) the direct psychophysiological responses to interactive technologies during entertainment and (2) their role as a context for technology-mediated social connectedness that implicates social support or social inclusion/exclusion. I intend to relate aforementioned  two research directions with digital well-being.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/yifei_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
