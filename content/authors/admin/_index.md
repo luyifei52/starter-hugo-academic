@@ -34,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi there. I (Yifei Lu) am currently a second-year master’s student at Beijing Normal University. My research interests include interactive technologies, human-computer interaction, and computer-mediated communication. More specifically, I am interested in exploring (1) the cognition processes of media content with interactive technologies and (2) the role of interactive technologies as a context for technology-mediated social connectedness that implicates social support, social inclusion/exclusion and social movement. I intend to relate aforementioned  two research directions with digital well-being.
+Hi there. I (Yifei Lu) am currently a second-year master’s student at Beijing Normal University. My research interests include interactive technologies, human-computer interaction, and computer-mediated communication. More specifically, I am interested in exploring (1) the cognitive processes associated with interactive media content and (2) the role of interactive technologies as a context for technology-mediated social connectedness that implicates social support, social inclusion/exclusion and social movement. I intend to relate aforementioned  two research directions with digital well-being.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
